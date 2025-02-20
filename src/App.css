@@ -3,6 +3,13 @@
   display: flex;
 }
 
-.app > div {
+.app>div {
   margin-right: 50px;
+}
+
+.todolist {
+  border: 2px solid grey;
+  border-radius: 5px;
+  background-color: coral;
+  padding: 15px;
 }
